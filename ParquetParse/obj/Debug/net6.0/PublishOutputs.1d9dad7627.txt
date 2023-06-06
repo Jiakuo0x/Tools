@@ -1,7 +1,0 @@
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\ParquetParse.exe
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\ParquetParse.dll
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\ParquetParse.deps.json
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\ParquetParse.runtimeconfig.json
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\ParquetParse.pdb
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\IronSnappy.dll
-C:\Developments\Tools\ParquetParse\bin\Debug\net6.0\publish\Parquet.dll
